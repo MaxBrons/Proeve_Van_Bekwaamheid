@@ -6,9 +6,9 @@
 /NAME:"UE4Editor-AdvancedSteamSessions.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\maxbr\Documents\Lib\Github\Proeve_Van_Bekwaamheid\Intermediate\Build\Win64\OverseasEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\maxbr\Documents\Lib\Github\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
-"C:\Users\maxbr\Documents\Lib\Github\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
-"C:\Users\maxbr\Documents\Lib\Github\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
-/OUT:"C:\Users\maxbr\Documents\Lib\Github\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
+"C:\Users\maxbr\GitHub\Proeve_Van_Bekwaamheid\Intermediate\Build\Win64\OverseasEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\maxbr\GitHub\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\maxbr\GitHub\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\maxbr\GitHub\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\maxbr\GitHub\Proeve_Van_Bekwaamheid\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\UE4Editor-AdvancedSteamSessions.lib"
 /INCLUDE:IMPLEMENT_MODULE_AdvancedSteamSessions
