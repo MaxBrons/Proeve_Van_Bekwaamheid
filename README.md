@@ -1,3 +1,3 @@
 # Proeve_Van_Bekwaamheid
 
-![Logo](/assets/ReadmeImages/Overseas.png)
+![Logo](/assets/ReadmeImages/Overseas.PNG)
