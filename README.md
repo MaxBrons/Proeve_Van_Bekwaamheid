@@ -10,6 +10,7 @@
 - Contact
 
 ## Project
+![De brug render](/ReadmeImages/BrugScreen.png)
 Dit project is gemaakt voor ons eindexamen MBO 4 Gamedevelopment. Deze opdracht komt vanuit de marine SimulatieCentrumMaritiem dit bedrijf houd zich bezig met VR/AR applicaties/simulaties te ontwikkelen waar personeel van de marine mee kan trainen.
 
 Onze game speelt af midden op de zee. je zit op een schip wat klaar is voor de strijd! Er komen verschillende soorten vijanden op je af die je schip proberen te vernietigen! gelukkig heb jij een team en de tools aan boord om deze vijand eerder te verslaan. Maar pas op.. je wordt niet alleen aangevallen door schepen maar je schip is ook nog eens overgenomen door een virus! het virus breekt verschillende onderdelen van je schip wat jij zo snel mogelijk met je team moet repareren om de vijand optijd te kunnen verslaan!
