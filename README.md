@@ -9,7 +9,7 @@
 - Project doel
 - Contact
 
-![De brug render](/ReadmeImages/BrugScreen.PNG)
+![De brug render](/ReadmeImages/BrugScreen.png)
 ## Project
 Dit project is gemaakt voor ons eindexamen MBO 4 Gamedevelopment. Deze opdracht komt vanuit de marine SimulatieCentrumMaritiem dit bedrijf houd zich bezig met VR/AR applicaties/simulaties te ontwikkelen waar personeel van de marine mee kan trainen.
 
