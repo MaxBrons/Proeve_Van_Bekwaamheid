@@ -24,7 +24,7 @@ Onze game speelt af midden op de zee. je zit op een schip wat klaar is voor de s
 - [Trello](https://trello.com/b/UJIcmpQ2/proeve-van-bekwaamheid)
 
 ## Downloads
-1. Klik op de volgende link [Game](Google.nl)
+1. Klik op de volgende link [Game](https://drive.google.com/drive/folders/10p1xPa7ZOuDjvRxRfpoLwZ45UzNmImpg?usp=sharing)
 2. Download het .zip bestandje
 3. Unzip de folder
 4. Vind het Overseas.exe bestandje
